@@ -8,7 +8,7 @@ Computer Science Student| AI Driven Thinking |Business Enthusiast| Ambitious Bak
 
 - 🌱 I’m currently learning **Integrated learning,Ml,AI**
 
-- 👯 I’m looking to collaborate on **AI Enthusiasta**
+- 👯 I’m looking to collaborate on **AI Enthusiasts**
 
 - 🤝 I’m looking for help with **Internships**
 
