@@ -1,10 +1,11 @@
-Computer Science Student| AI Driven Thinking |Business Enthusiast| Ambitious Baker| PA in Administration Dept| I’m currently pursuing Computer Science at BITS Pilani, Dubai Campus, with a strong interest in AI, robotics, and software development. I thrive on solving complex problems through technology and love collaborating with like-minded individuals to build innovative solutions. I’m always in an urge of learning new things and grabbing things quicker. 
+AI & Business Systems | Public Policy & Tech Researcher| Product Strategy | Digital Solutions| BITS PILANI DUBAI CAMPUS, UAE
+ I’m currently pursuing Computer Science at BITS Pilani, Dubai Campus, with a strong interest in AI, robotics, and software development. I thrive on solving complex problems through technology and love collaborating with like-minded individuals to build innovative solutions. I’m always in an urge of learning new things and grabbing things quicker. 
 <h1 align="center">Hi 👋, I'm Asitha Gayatri Rudraraju</h1>
 <h3 align="center">Computer Science Student| AI Driven Thinking |Business Enthusiast| Ambitious Baker| PA in Administration Dept</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asitha061" alt="asitha061" /></a> </p>
 
-- 🔭 I’m currently working on **SecureC**
+- 🔭 I’m currently working on **Safe0**
 
 - 🌱 I’m currently learning **Integrated learning,Ml,AI**
 
