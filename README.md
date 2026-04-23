@@ -6,15 +6,15 @@ AI & Business Systems | Public Policy & Tech Researcher| Product Strategy | Digi
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asitha061" alt="asitha061" /></a> </p>
 
-- 🔭 I’m currently working on **Safe0**
+-  I’m currently working on **Safe0**
 
-- 🌱 I’m currently learning **Integrated learning,Ml,AI**
+-  I’m currently learning **Integrated learning,Ml,AI**
 
-- 👯 I’m looking to collaborate on **AI Enthusiasts**
+- I’m looking to collaborate on **AI Enthusiasts**
 
-- 🤝 I’m looking for help with **Internships**
+- I’m looking for help with **Internships**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Asitha061](https://github.com/Asitha061)
+-  All of my projects are available at [https://github.com/Asitha061](https://github.com/Asitha061)
 
 - 📫 How to reach me **rudrarajuasitha@gmail.com**
 
