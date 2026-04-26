@@ -18,7 +18,7 @@ AI & Business Systems | Public Policy & Tech Researcher| Product Strategy | Digi
 
 - 📫 How to reach me **rudrarajuasitha@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/asitha-gayatri-rudraraju-578175314/](https://www.linkedin.com/in/asitha-gayatri-rudraraju-578175314/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/asitharudraraju/](https://www.linkedin.com/in/asitharudraraju/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
